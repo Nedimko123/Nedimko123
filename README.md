@@ -1,3 +1,4 @@
+<img src="neda.png" />
 👱‍♂️ Nedim Maličbegović - Experienced Senior Frontend Developer with a proven track record of delivering high-quality web applications. Skilled in modern frontend technologies and frameworks, I thrive in fast-paced environments, driving innovation and delivering exceptional user experiences.
 
 #### 💼 Currently working on Reiprintmail using:
